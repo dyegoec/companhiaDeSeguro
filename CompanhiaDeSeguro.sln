@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanhiaDeSeguro", "CompanhiaDeSeguro\CompanhiaDeSeguro.csproj", "{9E7911E3-F2BC-4AC4-81C0-E921FED9FEC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{1E219C83-6504-4FCF-B016-BF76B09AE47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7911E3-F2BC-4AC4-81C0-E921FED9FEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7911E3-F2BC-4AC4-81C0-E921FED9FEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7911E3-F2BC-4AC4-81C0-E921FED9FEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7911E3-F2BC-4AC4-81C0-E921FED9FEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E219C83-6504-4FCF-B016-BF76B09AE47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E219C83-6504-4FCF-B016-BF76B09AE47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E219C83-6504-4FCF-B016-BF76B09AE47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E219C83-6504-4FCF-B016-BF76B09AE47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

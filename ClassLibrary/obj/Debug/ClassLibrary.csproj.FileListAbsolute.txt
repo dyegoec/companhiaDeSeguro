@@ -1,0 +1,5 @@
+C:\Users\Felipe Windows 7\Documents\Visual Studio 2008\Projects\CompanhiaDeSeguro\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Felipe Windows 7\Documents\Visual Studio 2008\Projects\CompanhiaDeSeguro\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Felipe Windows 7\Documents\Visual Studio 2008\Projects\CompanhiaDeSeguro\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe Windows 7\Documents\Visual Studio 2008\Projects\CompanhiaDeSeguro\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Felipe Windows 7\Documents\Visual Studio 2008\Projects\CompanhiaDeSeguro\ClassLibrary\obj\Debug\ClassLibrary.pdb
